@@ -25,7 +25,11 @@ body {
 
 .link--cta {
     color: aquamarine;
-    font-size: 20px;
+    font-size: 16px;
 }
 
-   
+.footer--copyrite {
+    text-align: right;
+    color:gray;
+    font-size: 21px;
+}
